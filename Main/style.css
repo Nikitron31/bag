@@ -1,0 +1,29 @@
+body {
+  background-image: url("https://klike.net/uploads/posts/2019-05/1559024484_13.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100%;
+}
+
+header {
+  background-color: #4287f5;
+}
+
+@font-face {
+ font-family: Pompadur;
+ src: url(fonts/pompadur.ttf);
+}
+
+footer {
+  background-color: #4287f5;
+}
+
+nav > ul > li > a {
+  color: black;
+  font-size: 30px;
+  background-color: #356fcc;
+}
+
+nav > ul > li > a:hover {
+  background-color: #4287f5;
+}
